@@ -1,7 +1,5 @@
 ### Hi there this is Pallavi Sable 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on React projects
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate on startups in blockchain
